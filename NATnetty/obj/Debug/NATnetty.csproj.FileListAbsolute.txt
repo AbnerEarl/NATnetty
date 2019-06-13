@@ -1,0 +1,10 @@
+E:\VisualStudioProjects\NATnetty\NATnetty\bin\Debug\NATnetty.exe.config
+E:\VisualStudioProjects\NATnetty\NATnetty\bin\Debug\NATnetty.exe
+E:\VisualStudioProjects\NATnetty\NATnetty\bin\Debug\NATnetty.pdb
+E:\VisualStudioProjects\NATnetty\NATnetty\obj\Debug\NATnetty.csprojAssemblyReference.cache
+E:\VisualStudioProjects\NATnetty\NATnetty\obj\Debug\NATnetty.Form1.resources
+E:\VisualStudioProjects\NATnetty\NATnetty\obj\Debug\NATnetty.Properties.Resources.resources
+E:\VisualStudioProjects\NATnetty\NATnetty\obj\Debug\NATnetty.csproj.GenerateResource.cache
+E:\VisualStudioProjects\NATnetty\NATnetty\obj\Debug\NATnetty.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\NATnetty\NATnetty\obj\Debug\NATnetty.exe
+E:\VisualStudioProjects\NATnetty\NATnetty\obj\Debug\NATnetty.pdb
