@@ -33,3 +33,5 @@ p.StandardInput.WriteLine("exit");//都下执行完退出
 string strRst = p.StandardOutput.ReadToEnd();
 
 //最后console输出返回到 strRst变量。然后你再处理这个变量。
+
+https://blog.csdn.net/u013151336/article/details/51301779/
